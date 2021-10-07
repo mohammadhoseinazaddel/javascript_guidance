@@ -11,4 +11,8 @@ let d = String(c) // change int to string
  console.log(parseInt('123aaa'))  //123
  console.log(parseInt('-22.44'))  //-22
  console.log(parseInt('10101',2)) //mabnaye 2
- console.log(parseFloat('22.43'))   //22.43
+ console.log(parseFloat('22.43')) //22.43
+
+/* === tabdil str int anjam nmide baraye moghyese*/
+
+// operator precedence: taghadom amalgrha
