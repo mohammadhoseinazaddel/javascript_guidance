@@ -45,3 +45,8 @@ console.log(a.reverse())
 console.log(a.sort())
 console.log(a)
 console.log(a.indexOf('ff'))
+
+// do for 
+for (let val in a){
+    console.log("chi")
+}

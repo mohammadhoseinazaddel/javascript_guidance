@@ -48,7 +48,7 @@ let mark =2
 switch(true){
     case (mark >=0 && mark<5):
         console.log("week")
-        
+        break
     case (mark >=5 && mark<10):
         console.log("ohoh")
         break
